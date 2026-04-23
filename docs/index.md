@@ -27,6 +27,6 @@
   </div>
 
   <div class="hero-image">
-    <img src="images/profile.jpg" alt="Simcha Lazarus">
+    <img src="assets/profile.jpg" alt="Simcha Lazarus">
   </div>
 </div>

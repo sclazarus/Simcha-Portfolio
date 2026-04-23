@@ -4,8 +4,8 @@ site_author: Simcha Lazarus
 site_url: https://your-username.github.io/portfolio/
 docs_dir: docs
 
-repo_url: https://github.com/your-username/portfolio
-repo_name: your-username/portfolio
+repo_url: https://github.com/sclazarus/Simcha-Portfolio
+repo_name: sclazarus/Simcha-Portfolio
 edit_uri: ""
 
 theme:
