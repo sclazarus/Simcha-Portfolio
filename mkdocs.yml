@@ -1,0 +1,87 @@
+site_name: Simcha Lazarus — Technical Writing Portfolio
+site_description: Technical writing samples and personal project documentation by Simcha Lazarus.
+site_author: Simcha Lazarus
+site_url: https://your-username.github.io/portfolio/
+docs_dir: docs
+
+repo_url: https://github.com/your-username/portfolio
+repo_name: your-username/portfolio
+edit_uri: ""
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  font:
+    text: Source Sans 3
+    code: JetBrains Mono
+
+nav:
+  - Home: index.md
+  - Samples:
+    - Overview: samples/overview.md
+    - AI in Technical Writing: samples/ai-in-technical-writing.md
+    - API Reference: samples/api.md
+    - User Guide: samples/user-guide.md
+    - Release Notes: samples/release-notes.md
+  - Projects:
+    - Overview: projects/index.md
+    - Rooting an Android Phone: projects/android-root.md
+    - Android Kitchen Kiosk: projects/android-kiosk.md
+  - Resume: 
+    - about/resume.md
+ 
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - def_list
+  - toc:
+      permalink: true
+
+extra_css:
+  - stylesheets/extra.css
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/your-profile
+    - icon: fontawesome/brands/github
+      link: https://github.com/your-username
+
+copyright: "&copy; 2025 Alex Kim"
