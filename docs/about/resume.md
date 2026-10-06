@@ -17,14 +17,15 @@ I’m a technical writer who works best where products are evolving quickly and 
 ## Experience
 
 ### Technical Writer  
-**Multiple SaaS Companies** · *2024–Present*
+**OnTarget** · *2024–2026*
 
-- Create and maintain internal and external product documentation, including user guides, online help, REST API references, SDK documentation, and release notes.
-- Work with product managers and engineers to turn product features into clear customer-facing documentation.
-- Write and review UX microcopy and in-product text to improve clarity, consistency, and usability.
-- Test product features and APIs to validate documentation and keep content aligned with real user behavior.
-- Support releases by researching, editing, and delivering content under tight deadlines.
-- Maintain consistency and quality while managing multiple projects in fast-changing environments.
+- Own end-to-end documentation for multiple complex product areas, from technical research and planning through writing, review, publication, and maintenance.
+- Interview and collaborate with Product Managers, Engineers, QA, and Support specialists to understand system behavior, gather source information, and verify technical accuracy.
+- Create clear user guides, feature documentation, procedures, FAQs, release notes, and internal instructional and enablement materials.
+- Translate complex workflows and technical concepts into concise, task-based content for users with different levels of technical knowledge.
+- Test product features and REST APIs to confirm procedures, identify documentation gaps, and validate published instructions.
+- Maintain consistent terminology, structure, and style across documentation while reviewing UI text and UX microcopy for clarity and usability.
+- Manage concurrent documentation projects and engineering reviews in Jira across multiple release schedules. 
 
 ### Technical Writer  
 **Global-e** · *2023–2024*
